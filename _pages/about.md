@@ -24,7 +24,7 @@ My research interests are:  Cloud Storage, Distributed System, Operating System.
 
 # Favorite Albums
 
-| <img src="about.assets/anheqiao.jpg"/>                    | ![img](about.assets/36FF46574EB73E37E846612EFBB7F195.jpg) | ![img](about.assets/A2360735DB904BB962789F999AE4BC19.jpg) | ![img](about.assets/FD271D9504148D6F8FE2AEC46AABA229.jpg) |
+| ![img](about.assets/anheqiao.jpg)                         | ![img](about.assets/36FF46574EB73E37E846612EFBB7F195.jpg) | ![img](about.assets/A2360735DB904BB962789F999AE4BC19.jpg) | ![img](about.assets/FD271D9504148D6F8FE2AEC46AABA229.jpg) |
 | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- |
 | ![img](about.assets/7C6AB001BF792B7CBC7423A151D46B6E.jpg) | ![img](about.assets/0659D44AF052C4A21909FCC85099C6FD.jpg) | ![img](about.assets/5C6314397284807B9A8221EDE243E02E.jpg) | ![img](about.assets/6264280193D9384D2A9E55C12015504A.jpg) |
 | ![img](about.assets/86985191BCA3359E26485A99A61F4040.jpg) | ![img](about.assets/8A12CA94D3B80334BFF605D0C7B2D4C7.jpg) | ![img](about.assets/AB7A28B2D3CE91173755373A15443CFE.jpg) | ![img](about.assets/A30F3512E139DC4018D774239551845E.jpg) |
