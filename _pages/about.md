@@ -9,4 +9,8 @@ redirect_from:
 ---
 This is Mskg4b8's home on the web!
 
-Lorem ipsum.
+试试中文
+
+插入图片：
+
+![](about.assets/QQ图片20220307160902.jpg)
