@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Intro
-
 I am an undergraduate student from HUST majoring in Computer Science and Technology. 
 
 I am about to follow Prof. Hu in the research of storage system. 
