@@ -33,6 +33,7 @@ My research interests are:  **Erasure coding, Distributed storage systems, Opera
 * [题单](https://www.luogu.com.cn/team/29447#training)
 * [Ohshitgit](https://ohshitgit.com/)
 * [Using Git](https://sp18.datastructur.es/materials/guides/using-git.html)
+* [LearnGit](https://learngitbranching.js.org/?locale=zh_CN)
 * [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
 * [CS自学指南](https://csdiy.wiki/)
 * **Erasure code Intro**
