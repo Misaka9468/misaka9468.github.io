@@ -10,16 +10,39 @@ I am an undergraduate student from HUST majoring in Computer Science and Technol
 
 I am about to follow Prof. Hu in the research of storage system. 
 
-My research interests are:  **Erasure coding, Distributed storage systems, Operating System**.
+My research interests are:  **Erasure coding, Distributed storage systems, Operating system**.
 
-# Some Links
+# More about me
 
 * [CS公开课学习记录](https://www.zhihu.com/column/c_1553819741969707009)
+  
   * UCB CS61B ✔
   * MIT 6.S081
   * MIT 6.824
   * CMU 15-445
+  
 * [刷题笔记](https://github.com/Misaka9468/blog)
+
+# Some useful links
+* [arXiv每日学术速递](http://arxivdaily.com/)
+* [GeoGebra](https://www.geogebra.org/3d)
+* [研控](https://www.yankong.org/)
+* [The Greek Alphabet in LaTeX](https://jblevins.org/log/greek)
+* [CSRankings](http://csrankings.org/#/index?none&world)
+* [oi-wiki](https://oi-wiki.org/)
+* [题单](https://www.luogu.com.cn/team/29447#training)
+* [Ohshitgit](https://ohshitgit.com/)
+* [Using Git](https://sp18.datastructur.es/materials/guides/using-git.html)
+* [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)
+* [CS自学指南](https://csdiy.wiki/)
+* **Erasure code Intro**
+  * https://blog.openacid.com/storage/ec-1/
+  * https://blog.openacid.com/storage/ec-2/
+  * https://blog.openacid.com/storage/ec-3/
+
+
+
+
 
 # Favorite Albums
 
@@ -35,8 +58,10 @@ My research interests are:  **Erasure coding, Distributed storage systems, Opera
 # Contact me
 
 ```shell
-$ base64 -d <<< "bWlzYWthOTQ2OEBnbWFpbC5jb20K"
+$ base64 -d <<< "ZW1haWw6bWlzYWthOTQ2OEBnbWFpbC5jb20K"
 
-$ base64 -d <<< "OTM3Nzg2MDM2Cg=="
+$ base64 -d <<< "cXE6OTM3Nzg2MDM2Cg=="
+
+$ base64 -d <<< "YmlsaWJpbGkgdWlkOjY0NzkxNDcK"
 ```
 
