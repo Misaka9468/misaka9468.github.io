@@ -2,9 +2,7 @@
 permalink: /guide/
 title: "guide"
 author_profile: true
-redirect_from: 
-  - /guide/
-  - /guide.html
+
 ---
 
 ## Test
