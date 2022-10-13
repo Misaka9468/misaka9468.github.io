@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "Guide"
 permalink: /guide/
-author_profile: false
+title: "guide"
+author_profile: trye
 ---
 
-{% include base_path %}
+
 
 # Test
+
