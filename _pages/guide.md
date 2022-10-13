@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "guide"
+title: "Guide"
 permalink: /guide/
 author_profile: false
 ---
