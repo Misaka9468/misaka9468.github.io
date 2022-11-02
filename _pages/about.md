@@ -10,7 +10,7 @@ I am an undergraduate student from HUST majoring in Computer Science and Technol
 
 I am about to follow Prof. Hu in the research of storage system. 
 
-My research interests are:  **Erasure coding, Distributed storage systems, Operating system**.
+My research interests are:  **Distributed systems, Operating system**.
 
 # More about me
 
